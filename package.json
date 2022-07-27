@@ -10,8 +10,8 @@
     "nuxt": "3.0.0-rc.6"
   },
   "dependencies": {
+    "@nuxt/vite-builder": "^3.0.0-rc.6",
     "majestic-ui": "^0.0.87-31.dev",
-    "nuxt-vite": "^0.3.5",
     "nuxt-webfontloader": "^1.1.0",
     "nuxt-windicss": "^2.4.3"
   }
