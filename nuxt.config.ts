@@ -2,9 +2,6 @@ import { defineNuxtConfig } from "nuxt"
 
 export default defineNuxtConfig({
     ssr: true,
-    bridge: {
-        nitro: false,
-    },
     buildModules: ["nuxt-windicss"],
     css: ["virtual:windi.css"],
     windicss: {

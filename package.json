@@ -7,11 +7,11 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.6"
+    "nuxt": "rc"
   },
   "dependencies": {
-    "@nuxt/vite-builder": "^3.0.0-rc.6",
-    "majestic-ui": "^0.0.87-31.dev",
+    "@nuxt/vite-builder": "^3.0.0-rc.8",
+    "majestic-ui": "0.0.88-4.dev",
     "nuxt-webfontloader": "^1.1.0",
     "nuxt-windicss": "^2.4.3"
   }
